@@ -1,0 +1,23 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "Intro to node for DevMountain",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwerdean/node-introduction.git"
+  },
+  "author": "Matt Werdean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwerdean/node-introduction/issues"
+  },
+  "homepage": "https://github.com/Mwerdean/node-introduction#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
